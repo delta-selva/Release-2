@@ -1,0 +1,6 @@
+
+    source myenv/bin/activate
+    export FLASK_DEBUG=1
+    export FLASK_ENV=development
+    server run dlpl-server flask run 
+ 

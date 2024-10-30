@@ -1,0 +1,35 @@
+{
+  "ssh_credentials": {
+    "ssh_username": "devsecops",
+    "ssh_password": "cyber"
+  },
+  "project_types": [
+    "ITSAR-Router",
+    "ITSAR-Wifi",
+    "ITSAR-ONT",
+    "ITSAR-OLT",
+    "TEC"
+  ],
+  "subtypes": [
+    {
+      "subtype_name": "1.9.2_Port_Scanning",
+      "project_type_id": 1
+    },
+    {
+      "subtype_name": "1.12.7_No_Default_Profile",
+      "project_type_id": 1
+    },
+    {
+      "subtype_name": "IP101",
+      "project_type_id": 5
+    },
+    {
+      "subtype_name": "IP102",
+      "project_type_id": 5
+    },
+    {
+      "subtype_name": "IP103",
+      "project_type_id": 5
+    }
+  ]
+}
